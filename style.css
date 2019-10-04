@@ -1,5 +1,7 @@
 body {
     background-color: #232323;
+    margin: 0;
+    padding: 0;
 }
 
 #container {
@@ -15,8 +17,17 @@ body {
     margin: 1.66%;
 }
 
-h1,
-#message {
+h1 {
     color: rgb(226, 226, 226);
     text-transform: capitalize;
+}
+
+span {
+    text-transform: capitalize;
+}
+
+#stripe {
+    background-color: white;
+    height: 30px;
+    text-align: center;
 }
