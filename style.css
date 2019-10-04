@@ -15,7 +15,8 @@ body {
     margin: 1.66%;
 }
 
-h1 {
+h1,
+#message {
     color: rgb(226, 226, 226);
     text-transform: capitalize;
 }
