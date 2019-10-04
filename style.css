@@ -64,6 +64,7 @@ button {
     letter-spacing: 1px;
     font-size: inherit;
     transition: all 250ms;
+    outline: none;
 }
 
 #message {
